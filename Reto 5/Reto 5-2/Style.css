@@ -1,0 +1,8 @@
+body{
+    border: 3px solid black;
+    padding: 5px 12px 5px 12px;
+}
+.a{
+    border: 3px solid rgb(134, 51, 51);
+    padding: 4px 6px 4px 6px;
+}
